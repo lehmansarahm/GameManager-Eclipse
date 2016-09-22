@@ -5,9 +5,17 @@ import android.util.Log;
 import android.widget.Toast;
 import java.util.Locale;
 
+/**
+ * Sample plugin class to demonstrate how to provide extra functionality
+ * to the Unity environment
+ */
 public class ImageTargetDetailProvider {
     protected Activity mCurrentActivity;
 
+    /**
+     * Sets the activity for the class so that the target info message
+     * can be displayed
+     */
     public void setActivity(Activity activity)
     {
         mCurrentActivity = activity;
