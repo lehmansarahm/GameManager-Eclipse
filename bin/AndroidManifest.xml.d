@@ -1,2 +1,2 @@
-/Users/slehr/GameManager/bin/AndroidManifest.xml : \
-/Users/slehr/GameManager/AndroidManifest.xml \
+/Users/slehr/Documents/git/GameManager/bin/AndroidManifest.xml : \
+/Users/slehr/Documents/git/GameManager/AndroidManifest.xml \
